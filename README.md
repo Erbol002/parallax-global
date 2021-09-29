@@ -1,0 +1,1 @@
+# parallax-global
